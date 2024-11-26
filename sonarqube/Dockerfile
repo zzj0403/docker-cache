@@ -1,0 +1,1 @@
+FROM mc1arke/sonarqube-with-community-branch-plugin:9.9-community
